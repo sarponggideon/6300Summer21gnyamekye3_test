@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="345cedf1-becb-4226-9084-d26318572412" name="Default Changelist" comment="" />
+    <list default="true" id="5bf5ddae-fbd0-472c-8fb8-ee0d271b237f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,20 +10,13 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="KotlinCodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
-  <component name="ProjectId" id="1tK1oxjEHmqxQOIp63TOLsVH3Hb" />
+  <component name="ProjectId" id="1tail2yBpwgMqPRwh1bF3gDhNao" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -68,7 +43,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStringTest.testAddNumberS6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyStringTest.testConvertDigitsToNamesInSubstringS6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assignment3" />
       <extension name="coverage">
         <pattern>
@@ -78,55 +53,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="edu.gatech.seclass" />
       <option name="MAIN_CLASS_NAME" value="edu.gatech.seclass.MyStringTest" />
-      <option name="METHOD_NAME" value="testAddNumberS6" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyStringTest.testConvertDigitsToNamesInSubstringS2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Assignment3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.gatech.seclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="edu.gatech.seclass" />
-      <option name="MAIN_CLASS_NAME" value="edu.gatech.seclass.MyStringTest" />
-      <option name="METHOD_NAME" value="testConvertDigitsToNamesInSubstringS2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyStringTest.testConvertDigitsToNamesInSubstringS4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Assignment3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.gatech.seclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="edu.gatech.seclass" />
-      <option name="MAIN_CLASS_NAME" value="edu.gatech.seclass.MyStringTest" />
-      <option name="METHOD_NAME" value="testConvertDigitsToNamesInSubstringS4" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyStringTest.testConvertDigitsToNamesInSubstringS5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Assignment3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.gatech.seclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="edu.gatech.seclass" />
-      <option name="MAIN_CLASS_NAME" value="edu.gatech.seclass.MyStringTest" />
-      <option name="METHOD_NAME" value="testConvertDigitsToNamesInSubstringS5" />
+      <option name="METHOD_NAME" value="testConvertDigitsToNamesInSubstringS6" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -135,101 +62,39 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.MyStringTest" />
-        <item itemvalue="JUnit.MyStringTest.testConvertDigitsToNamesInSubstringS5" />
-        <item itemvalue="JUnit.MyStringTest.testAddNumberS6" />
-        <item itemvalue="JUnit.MyStringTest.testConvertDigitsToNamesInSubstringS4" />
-        <item itemvalue="JUnit.MyStringTest.testConvertDigitsToNamesInSubstringS2" />
+        <item itemvalue="JUnit.MyStringTest.testConvertDigitsToNamesInSubstringS6" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="345cedf1-becb-4226-9084-d26318572412" name="Default Changelist" comment="" />
-      <created>1622503145961</created>
+      <changelist id="5bf5ddae-fbd0-472c-8fb8-ee0d271b237f" name="Default Changelist" comment="" />
+      <created>1623013748363</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1622503145961</updated>
+      <updated>1623013748363</updated>
     </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1622817235404">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1623015268658">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1622817235404" />
-    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1622752780195">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623015268658" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1623015268658">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1622752780195" />
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1622751814018">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623015268658" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1623015268658">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1622751814018" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1623013694112">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623015268658" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1623015268658">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1623013694112" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1623013995165">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623013995165" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1623013995165">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623013995165" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1623013995165">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623013995165" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1623013995165">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623013995165" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1622751993629">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622751993629" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1622751993629">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1622751993629" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1622751993629">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1622751993629" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1622751993629">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1622751993629" />
-    <state x="348" y="68" width="731" height="591" key="NewModule_or_Project.wizard" timestamp="1623013742235">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="348" y="68" width="731" height="591" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1623013742235" />
-    <state x="305" y="66" key="RollbackChangesDialog" timestamp="1622962584813">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="305" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1622962584813" />
-    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622962832797">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1622962832797" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623015268658" />
   </component>
 </project>
